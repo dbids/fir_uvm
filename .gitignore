@@ -1,0 +1,11 @@
+*DVEfiles*
+*.tcl
+*.vpd
+*simv* 
+*csrc* 
+*.log 
+*vc_hdrs.h 
+*ucli.key 
+*urg*
+*.swp
+*verdiLog*
